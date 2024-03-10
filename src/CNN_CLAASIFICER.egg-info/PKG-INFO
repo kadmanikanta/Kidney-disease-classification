@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: CNN-CLAASIFICER
+Version: 0.0.0
+Summary: A classifier for kidney disease using Convolutional Neural Networks (CNN) 
+Home-page: https://github.com/kadManikanta/Kidney-disease-classification
+Author: kadManikanta
+Author-email: kadambamanikanta311@gmail.com
+License: MIT License
+Project-URL: Bug Tracker, https://github.com/kadManikanta/Kidney-disease-classification/issues
+Description-Content-Type: text/markdown
+
+# Kidney-disease-classification

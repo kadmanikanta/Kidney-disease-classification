@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/CNN_CLAASIFICER.egg-info/PKG-INFO
+src/CNN_CLAASIFICER.egg-info/SOURCES.txt
+src/CNN_CLAASIFICER.egg-info/dependency_links.txt
+src/CNN_CLAASIFICER.egg-info/top_level.txt
