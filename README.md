@@ -17,8 +17,7 @@
 9. Update the dvc.yaml
 10. app.py
 
-### step_1  :
-
+### step-1:
 
 Clone the repository 
 
@@ -26,24 +25,25 @@ Clone the repository
 
 https://github.com/kadmanikanta/Kidney-disease-classification.git
 
-```bash
+```
 
-### step-2  - conda create environment for our project 
+### step-2: conda create environment for our project 
+
 ```bash
 conda create -n  kid python=3.8 -y
-```bash
+```
 
-###  step-3 - activating conda activate kid
+###  step-3: Activating conda activate kid
 
 ```bash
 conda activate kid
-```bash
+```
 
-### step-4: installing requirements
+### step-4: Installing requirements
 
-```bash
+```
 pip install -r requirements.txt
-```bash
+```
 
  
 
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 ```bash
 
-```bash
+```
 
 
 
