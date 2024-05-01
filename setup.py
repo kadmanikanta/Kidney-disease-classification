@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Kidney-disease-classification"
 AUTHOR_NAME = "kadManikanta"
-SRC_REPO = "CNN_CLAASIFICER"
+SRC_REPO = "cnn_classifier"
 AUTHOR_EMAIL = "kadambamanikanta311@gmail.com"
 
 
