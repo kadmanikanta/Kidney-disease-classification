@@ -18,36 +18,41 @@
 10. app.py
 
 ### step_1  :
-'''bash
+
 
 Clone the repository 
 
+```bash
+
 https://github.com/kadmanikanta/Kidney-disease-classification.git
 
-'''bash
+```bash
 
 ### step-2  - conda create environment for our project 
-
-'''bash
+```bash
 conda create -n  kid python=3.8 -y
-'''bash
+```bash
 
 ###  step-3 - activating conda activate kid
 
-'''bash
+```bash
 conda activate kid
-'''bash
+```bash
 
 ### step-4: installing requirements
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''bash
+```bash
 
  
 
 ### step -5:
 
+
+```bash
+
+```bash
 
 
 
